@@ -1387,6 +1387,22 @@ video {
   padding-right: 80px;
 }
 
+.pt-\[70px\]{
+  padding-top: 70px;
+}
+
+.pt-\[0px\]{
+  padding-top: 0px;
+}
+
+.pt-\[90px\]{
+  padding-top: 90px;
+}
+
+.pt-\[100px\]{
+  padding-top: 100px;
+}
+
 .text-center{
   text-align: center;
 }
@@ -1854,6 +1870,10 @@ video {
 
   .sm\:text-\[22px\]{
     font-size: 22px;
+  }
+
+  .sm\:text-\[96px\]{
+    font-size: 96px;
   }
 
   .sm\:leading-\[95\.52px\]{
